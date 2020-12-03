@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveMultipleDataTestV1</string>
+
+    <!-- Mathematics Settings String Res -->
+    <string name="theme">THEME</string>
+    <string name="numpad">NUMPAD</string>
+    <string name="reset_style">Reset Style</string>
+</resources>
